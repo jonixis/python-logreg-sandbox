@@ -20,10 +20,10 @@ Install dependencies inside virtual environement:
 pip install -r requirements.txt
 ```
 
-Run logreg script:
+Run the script:
 
 ```sh
-python logreg.py
+python log_reg.py
 ```
 
 In case you want to add dependencies exectue the following command:
